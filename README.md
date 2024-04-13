@@ -1,10 +1,11 @@
-# WordleRussian
-Wordle game in Russian language 
+# Wordle - Школьный проект
+Игра Wordle на русском языке
 
-Guess a hidden word that consists of 5 letters
+Угадай загаданное слово, состоящее из 5 букв
 
-Correct letters are marked green or yellow depending on whether its position is correct. Incorrect letters are marked gray
+Правильные буквы отмечаются зеленым или желтым цветом в зависимости от правильного их положения. Неправильные буквы отмечены серым цветом.
 
-Refresh to play again with a new word
+Обновите, чтобы снова сыграть с новым словом.
 
-You can see your winning tries distribution
+Вы можете увидеть распределение своих выигрышных попыток.
+# Поменять словарь - words.js
